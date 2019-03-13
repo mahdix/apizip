@@ -1,0 +1,10 @@
+{
+	"endpoint1": {
+		"verb": "POST",
+		"URL": "/test"
+	},
+	"xendpoint2": {
+		"verb": "GET",
+		"URL": "https://postman-echo.com/headers"
+	}
+} 
